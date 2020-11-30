@@ -674,7 +674,7 @@ body {
 }
 
        .container__box1--img {
-           outline: 1px solid red;
+           /*outline: 1px solid red;*/
 
          grid-column: 1 / 2;
          grid-row:    1 / 2;
@@ -685,7 +685,7 @@ body {
          
 }
        .container__box2--text {
-           outline: 1px solid red;
+           /*outline: 1px solid red;*/
 
          grid-column: 2 / 3;
          grid-row:    1 / 2;
@@ -696,7 +696,7 @@ body {
          text-align:        left;
 }
 .      .container__box3--text {
-           outline: 1px solid red;
+           /*outline: 1px solid red;*/
 
          grid-column: 1 / 2;
          grid-row:    2 / 3;
@@ -707,7 +707,7 @@ body {
          text-align:        left;
 }
        .container__box4--img {
-           outline: 1px solid red;
+           /*outline: 1px solid red;*/
 
          grid-column: 2 / 3;
          grid-row:    2 / 3;
